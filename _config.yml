@@ -14,6 +14,6 @@ facebook_username: edoardo.vanin
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-111627665-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
