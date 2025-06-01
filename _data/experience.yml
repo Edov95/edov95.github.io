@@ -1,19 +1,24 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Thales Alenia Space in Spain
+  position: System Engineer
+  duration: Gen, 2024 &mdash; Present
+  summary: I work in GARBO mission as System Engineer. In particular I am defining the QKD protocol for both the Space segment and Ground segment. My work is related to specification, simulation and testing of the QKD protocol at system and subsystem level.
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: Thales Alenia Space in Spain
+  position: IVVQ Engineer
+  duration:  Jun, 2022 &mdash; Dec, 2023
+  summary: During these two years I worked on Galileo G2G B1 CMCU-II unit. In this experience I was the resposible of the Verification and Validation campaign of the equipment. I was working with EGSE department to perform the tests on the equipment and I was validating the results against the equipment specification. As IVVQ I was responsible of the development of AIT plan, the test specification and the test procedure and finally I was presenting them in TRR board. I was also presenting the results in the TRB and illustrating the eventual NCR rised during the test campaign.
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Thales Alenia Space in Spain
+  position: EGSE Engineer
+  duration:   Sept, 2020  &mdash; Jun, 2022
+  summary: During these two years I was resposible for different EGSEs. My resposibility was to develop an EGSE aligned with the EGSE specification and complaing with all the functionalities needed to perform IVVQ activities. I was involved in the EGSE system definition. I was carrying out test procedure implementation and adding new functionalities to EGSE controller application.
+
+# Communications Coordinator
+- company: Thales Alenia Space in Spain
+  position: Internships at EGSE department
+  duration:   Sept, 2019  &mdash; Sept, 2020
+  summary: As intern in the company I was working in the EGSE controller application correcting bugs and introducing new features.
