@@ -1,12 +1,21 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Problem solving and critical thinking
+  description: In my day to day I use mostly&#58; C, C++, Matlab and Python
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Communication
+  description: When I have to implement DSP I mainly use Matlab and Simulink
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Telecom standard and protocols
+- skill: Teamwork and collaboration
+  description: I work with space standards like CCSDS, ECSS and ETSI or communication protocols like MIL-STD-1553 or SpaceWire
+
+- skill: Creativity and innovation
+  description: Wide use of software development tools like git, docker, visual studio code and gitlab pipeline managment for continous integration (CI) and continous delivery (CD).
+
+- skill: Attention to detail
+  description: Wide use of software development tools like git, docker, visual studio code and gitlab pipeline managment for continous integration (CI) and continous delivery (CD).
+
+- skill: Adaptability and continous learning
+  description: Wide use of software development tools like git, docker, visual studio code and gitlab pipeline managment for continous integration (CI) and continous delivery (CD).

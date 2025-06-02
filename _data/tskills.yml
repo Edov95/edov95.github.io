@@ -1,0 +1,15 @@
+# Skills
+# Organizational leadership
+- skill: Coding
+  description: In my day to day I use mostly&#58; C, C++, Matlab and Python
+
+# Communications strategy
+- skill: Digital Signal Processing
+  description: When I have to implement DSP I mainly use Matlab and Simulink
+
+# Telecom standard and protocols
+- skill: Space standards and protocols
+  description: I work with space standards like CCSDS, ECSS and ETSI or communication protocols like MIL-STD-1553 or SpaceWire
+
+- skill: Tools related with software development
+  description: Wide use of software development tools like git, docker, visual studio code and gitlab pipeline managment for continous integration (CI) and continous delivery (CD).

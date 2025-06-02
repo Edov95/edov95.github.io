@@ -117,17 +117,35 @@
       <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
+      {% if site.resume_section_tskills %}
+      <!-- begin Technical Skills -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>Technical Skills</h2>
+        </header>
+        {% for skill in site.data.tskills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <p class="resume-item-copy">{{ skill.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Skills -->
+      {% endif %}
+
+      {% if site.resume_section_skills %}
+      <!-- begin Technical Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Soft Skills</h2>
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+          <!--<p class="resume-item-copy">{{ skill.description }}</p>-->
         </div>
         {% endfor %}
 
